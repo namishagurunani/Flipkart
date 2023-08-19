@@ -17,7 +17,7 @@ This section contains links to different product categories.
 # CSS Code: 
 - The CSS code styles the HTML elements and controls their appearance and layout.
 - *: A universal selector that applies the following properties to all elements on the page. It sets margin, padding, box-sizing, and font-family.
--.navbar-top: Styles for the header section.
+- .navbar-top: Styles for the header section.
 - .plus-class: Styles for the "plus" text within the header.
 - .left p: Styles for the text inside the .left div.
 - .flip-img: Styles for the logo image.
