@@ -9,8 +9,8 @@ The HTML code defines the structure of the webpage. It includes a header section
 - .left: A div inside the header that holds the logo and a "Explore plus" text.
 - .search: A div that contains a search input and a search icon.
 - .loginbut: A button for the login action.
-- .links: A div containing an unordered list (<ul>) for various navigation links.
-# - <section class="items">: This section contains links to different product categories.
+- .links: A div containing an unordered list ('ul') for various navigation links.
+# - 'section class="items"': This section contains links to different product categories.
 - .items-links: A div that holds an image and a paragraph for each product category link.
 # CSS Code: 
 - The CSS code styles the HTML elements and controls their appearance and layout.
